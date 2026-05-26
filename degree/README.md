@@ -80,24 +80,24 @@ A curated collection of **IIT Madras BS Degree** course resources including:
 
 # 💼 Humanities & Management
 
-| Course | Code | Type |
-|---|---|---|
-| [Market Research](https://study.iitm.ac.in/ds/course_pages/BSMS3002.html) | MS3002 | HM |
-| Managerial Economics | MS3033 | HM |
-| Corporate Finance | MS3034 | HM |
-| Industry 4.0 | MS4001 | HM / BD |
-| Design Thinking for Data-Driven App Development | MS4002 | HM / BP |
-| Financial Forensics | MS4003 | HM / BD |
-| Game Theory and Strategy | MS4023 | HM / BD |
+| Course | Code | Type | Playlist | Resources | Channel |
+|---|---|---|---|---|---|
+| [Market Research](https://study.iitm.ac.in/ds/course_pages/BSMS3002.html) | MS3002 | HM | [Playlist](https://youtube.com/playlist?list=PLZ2ps__7DhBYYTW-bxo1D50qqpRRtzl3C) | [Drive](https://drive.google.com/drive/folders/1wTi1LEhfrwnwITzm2smjUS915yLq9Lyv?usp=drive_link) | [Channel](https://www.youtube.com/@marketresearch9225) |
+| Managerial Economics | MS3033 | HM | [Playlist](https://www.youtube.com/playlist?list=PLZ2ps__7DhBaUpIodIKDFj_5JznWTxp1E) | [Drive](https://drive.google.com/drive/folders/1PjcSAYZcMcMVH9EAEAd7MGlglC4H2uxU?usp=sharing) | — |
+| Corporate Finance | MS3034 | HM | [Playlist](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYz9OvEn3Ld29sHzsMxPNvO) | [Drive](https://drive.google.com/drive/folders/166GwEOQsmG-dOfaaOrXM9FZV5_Z48VDZ?usp=sharing) | — |
+| Industry 4.0 | MS4001 | HM / BD | [Playlist](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYMPKbh4tomTEoMiXTq9_3e) | [Drive](https://drive.google.com/drive/folders/1DHVOlARwnxSJx5FKAXgNF5aQR0XwoYq0?usp=drive_link) | — |
+| Design Thinking for Data-Driven App Development | MS4002 | HM / BP | [Playlist](https://www.youtube.com/watch?v=W-XMvGV6yUM&list=PLZ2ps__7DhBY8qCdR1QYoUx8tkPST6UJK) | [Drive](https://drive.google.com/drive/folders/1lCEyQnfHsTUJKp9Stt4-VsunnGctW_U1?usp=drive_link) | [Channel](https://www.youtube.com/@dtddadiitmbsdegree) |
+| Financial Forensics | MS4003 | HM / BD | [Playlist](https://www.youtube.com/watch?v=IYVhHXl1CBY&list=PLZ2ps__7DhBbo9U5GQ4YTqvp2GX0EO3kq) | [Drive](https://drive.google.com/drive/folders/1vkXPRhAI-ZRQJwwi90UZxlN3JVic8_wI?usp=drive_link) | [Channel](https://www.youtube.com/@financialforensics8886) |
+| Game Theory and Strategy | MS4023 | HM / BD | [Playlist](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbLzN1YMVO67miZP26eUYcR) | [Drive](https://drive.google.com/drive/folders/1i29874j58gYu3iyiuAOllZWpgdhu8po7?usp=sharing) | — |
 
 ---
 
 # 🧬 Bioinformatics
 
-| Course | Code | Type |
-|---|---|---|
-| [Algorithmic Thinking in Bioinformatics](https://study.iitm.ac.in/ds/course_pages/BSBT4001.html) | BT4001 | BD / BP |
-| [Big Data and Biological Networks](https://study.iitm.ac.in/ds/course_pages/BSBT4002.html) | BT4002 | BD / BP |
+| Course | Code | Type | Playlist | Resources | Channel |
+|---|---|---|---|---|---|
+| [Algorithmic Thinking in Bioinformatics](https://study.iitm.ac.in/ds/course_pages/BSBT4001.html) | BT4001 | BD / BP | [Playlist](https://youtube.com/playlist?list=PLZ2ps__7DhBZo3cm7feryq5oLAHbSsLEL) | — | [Channel](https://www.youtube.com/@algorithmicthinkinginbioinform/streams) |
+| [Big Data and Biological Networks](https://study.iitm.ac.in/ds/course_pages/BSBT4002.html) | BT4002 | BD / BP | [Playlist](https://youtube.com/playlist?list=PLZ2ps__7DhBapdXdBZInSjonWNAUL6Ycm) | [Drive](https://drive.google.com/drive/folders/1TWHyXKdMIgEo3MJONTL12vIRM1NBdLzZ?usp=drive_link) | [Channel](https://www.youtube.com/@bt4002course-team) |
 
 ---
 
